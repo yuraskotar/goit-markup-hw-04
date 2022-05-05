@@ -151,6 +151,10 @@ img {
     ), 
     url("../img/hero/Img\ \(9\).jpg");
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
     background-color: #C4C4C4;
     text-align: center;
     padding: 200px 0;
